@@ -1,0 +1,10 @@
+body{
+    padding-top: 50px;
+}
+
+.chatDisabled{
+    display:none;
+}
+.chatabled{
+    display: block;
+}
