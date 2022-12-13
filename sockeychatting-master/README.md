@@ -1,9 +1,4 @@
 # node-chat
-### 과학고 실습 데이터
+### 대구일과학고등학교 R&E
 
-# 실시간 채팅 만들기
-
-```
-npm install express --save
-npm install socket.io --save
-```
+# 그룹 채팅
